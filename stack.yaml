@@ -1,0 +1,6 @@
+resolver: lts-5.15
+packages:
+- '.'
+flags:
+  happy:
+    small_base: true
